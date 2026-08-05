@@ -1,9 +1,11 @@
-# Complete-Agentic-AI-Course
+# [YouTube] [Bappy Ahmed] Agentic AI – Complete Course for Beginners [ENG, 2026]
+
+**Original src:**  
+https://github.com/entbappy/Complete-Agentic-AI-Course
+
 
 
 🎓 Full Playlist Link: https://www.youtube.com/playlist?list=PLkz_y24mlSJZ9SFlc9O4Q4Grli5SQDbrB
-
-
 
 👉🏻 Agentic-Chatbot Project: https://github.com/entbappy/Agentic-Chatbot-using-LangGraph
 
