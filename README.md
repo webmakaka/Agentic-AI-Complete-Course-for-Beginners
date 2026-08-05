@@ -1,5 +1,7 @@
 # [YouTube] [Bappy Ahmed] Agentic AI – Complete Course for Beginners [ENG, 2026]
 
+<img src="./img/cover.png" alt="Agentic AI – Complete Course for Beginners" height="256px" align="right">
+
 **Original src:**  
 https://github.com/entbappy/Complete-Agentic-AI-Course
 
