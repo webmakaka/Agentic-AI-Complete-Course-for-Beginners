@@ -9,8 +9,8 @@ https://github.com/entbappy/Complete-Agentic-AI-Course
 ```
 Chapters:
 
-00:00:00 Introduction & Planning
-00:08:33 Evolution from LLMs to Agentic AI
+✅ 00:00:00 Introduction & Planning
+✅ 00:08:33 Evolution from LLMs to Agentic AI
 00:41:26 Agentic AI: Core Characteristics & Components
 01:33:18 Asynchronous Programming for AI Agents
 02:06:23 Pydantic for AI Agents - Pydantic Data Validation
