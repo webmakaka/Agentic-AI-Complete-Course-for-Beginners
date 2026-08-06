@@ -47,3 +47,13 @@ Chapters ⭐️
 👉🏻 TripMate AI Project: https://github.com/entbappy/TripMate-AI-A-Multi-Agent-Travel-Planner-with-LangGraph
 
 👉🏻 AgentWriter-AI Project: https://github.com/entbappy/AgentWriter-AI
+
+
+
+<br/><br/>
+
+---
+
+<br/>
+
+<a href="https://agenticdev.ru/">Предложить инженеру работу / подработку на проекте с kubernetes, microservices, golang, machine learning, big data, LLM, agents</a>
