@@ -2,6 +2,9 @@
 
 <img src="./img/cover.png" alt="Agentic AI – Complete Course for Beginners" height="256px" align="right">
 
+**YouTube:**  
+https://www.youtube.com/watch?v=Zy7EXDONlTY
+
 **Original src:**  
 https://github.com/entbappy/Complete-Agentic-AI-Course
 
