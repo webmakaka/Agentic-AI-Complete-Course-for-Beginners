@@ -14,8 +14,9 @@ Chapters:
 
 ✅ 00:00:00 Introduction & Planning
 ✅ 00:08:33 Evolution from LLMs to Agentic AI
-▶️ 00:41:26 Agentic AI: Core Characteristics & Components
-⏸️ 01:33:18 Asynchronous Programming for AI Agents
+✅ 00:41:26 Agentic AI: Core Characteristics & Components
+
+▶️ 01:33:18 Asynchronous Programming for AI Agents
 ⏸️ 02:06:23 Pydantic for AI Agents - Pydantic Data Validation
 ⏸️ 03:27:08 Building End-to-End Single AI Agent System using LangChain
 ⏸️ 04:49:37 Building End-to-End Multi-Agent AI System with LangChain
