@@ -57,6 +57,11 @@ Chapters:
 
 <br/><br/>
 
+**The AI Agent Tools Catalog:**  
+https://github.com/GetStream/ai-agent-tools-catalog
+
+<br/><br/>
+
 ---
 
 <br/>
