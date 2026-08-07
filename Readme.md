@@ -68,6 +68,9 @@ Chapters:
 **The AI Agent Tools Catalog:**  
 https://github.com/GetStream/ai-agent-tools-catalog
 
+**Ultimate LangChain Crash Course for Developers:**  
+https://www.youtube.com/watch?v=Z2DNKJ7tVVg
+
 <br/><br/>
 
 ---
