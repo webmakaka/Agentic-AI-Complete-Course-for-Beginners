@@ -1,7 +1,6 @@
 import os
 import certifi
 
-
 import requests
 
 from dotenv import load_dotenv
