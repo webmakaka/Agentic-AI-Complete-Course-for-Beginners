@@ -8,14 +8,12 @@ https://www.youtube.com/watch?v=Zy7EXDONlTY
 **Original src:**  
 https://github.com/entbappy/Complete-Agentic-AI-Course
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 ```
 Chapters:
@@ -25,14 +23,45 @@ Chapters:
 ✅ 00:41:26 Agentic AI: Core Characteristics & Components
 ✅ 01:33:18 Asynchronous Programming for AI Agents
 ✅ 02:08:00 Pydantic for AI Agents - Pydantic Data Validation
+```
 
-▶️ 03:27:08 Building End-to-End Single AI Agent System using LangChain
-⏸️ 04:49:37 Building End-to-End Multi-Agent AI System with LangChain
-⏸️ 06:30:27 What is LangGraph & Why It’s Required? | LangChain vs LangGraph
-⏸️ 07:44:43 Understanding LangGraph Core Components
-⏸️ 08:29:07 Build Sequential Workflows in LangGraph
-⏸️ 09:19:04 Implement Parallel Workflows in LangGraph
-⏸️ 10:15:27 Master Conditional Workflows in LangGraph
+<br/>
+
+```
+✅ 03:27:08 Building End-to-End Single AI Agent System using LangChain
+```
+
+<img src="./img/03-Langchain-Single-Agent-pic01.png" alt="Building End-to-End Single AI Agent System using LangChain">
+
+<br/>
+
+```
+✅ 04:50:13 Building End-to-End Multi-Agent AI System with LangChain
+```
+
+<br/>
+
+<img src="./img/04. LangChain-Multi-Agent-Research-System-pic01.png" alt="Building End-to-End Multi-Agent AI System with LangChain">
+
+<br/>
+
+<img src="./img/04. LangChain-Multi-Agent-Research-System-pic02.png" alt="Building End-to-End Multi-Agent AI System with LangChain">
+
+<br/>
+
+```
+✅ 06:31:06 What is LangGraph & Why It’s Required? | LangChain vs LangGraph
+✅ 07:45:21 Understanding LangGraph Core Components
+✅ 08:29:45 Build Sequential Workflows in LangGraph
+✅ 09:19:42 Implement Parallel Workflows in LangGraph
+```
+
+<br/>
+
+```
+▶️ 10:16:05 Master Conditional Workflows in LangGraph
+
+
 ⏸️ 11:06:05 LangGraph Iterative Workflows Explained
 ⏸️ 11:35:51 Build Your First Agentic Chatbot with LangGraph
 ⏸️ 12:43:49 Why Persistence is Required in LangGraph
@@ -49,7 +78,7 @@ Chapters:
 ⏸️ 22:21:17 Project: Build TripMate AI End-to-End: Multi-Agent Travel Planner with Groq, LangGraph, PostgreSQL & FastAPI
 ```
 
-
+<br/>
 
 🎓 Full Playlist Link: https://www.youtube.com/playlist?list=PLkz_y24mlSJZ9SFlc9O4Q4Grli5SQDbrB
 
@@ -61,8 +90,6 @@ Chapters:
 
 👉🏻 AgentWriter-AI Project: https://github.com/entbappy/AgentWriter-AI
 
-
-
 <br/><br/>
 
 **The AI Agent Tools Catalog:**  
@@ -70,6 +97,9 @@ https://github.com/GetStream/ai-agent-tools-catalog
 
 **Ultimate LangChain Crash Course for Developers:**  
 https://www.youtube.com/watch?v=Z2DNKJ7tVVg
+
+**Building effective agents:**  
+https://www.anthropic.com/engineering/building-effective-agents
 
 <br/><br/>
 
