@@ -49,21 +49,25 @@ Chapters:
 
 <br/>
 
+**LangGraph**
+
+<br/>
+
 ```
 ✅ 06:31:06 What is LangGraph & Why It’s Required? | LangChain vs LangGraph
 ✅ 07:45:21 Understanding LangGraph Core Components
 ✅ 08:29:45 Build Sequential Workflows in LangGraph
 ✅ 09:19:42 Implement Parallel Workflows in LangGraph
+✅ 10:16:05 Master Conditional Workflows in LangGraph
+✅ 11:06:40 LangGraph Iterative Workflows Explained
 ```
 
 <br/>
 
+**Chatbot:**
+
 ```
-▶️ 10:16:05 Master Conditional Workflows in LangGraph
-
-
-⏸️ 11:06:05 LangGraph Iterative Workflows Explained
-⏸️ 11:35:51 Build Your First Agentic Chatbot with LangGraph
+▶️ 11:36:30 Build Your First Agentic Chatbot with LangGraph
 ⏸️ 12:43:49 Why Persistence is Required in LangGraph
 ⏸️ 13:51:00 Streaming Responses in Agentic Chatbot with LangGraph
 ⏸️ 14:10:02 How to Add Chat Threading in Agentic Chatbot using LangGraph
