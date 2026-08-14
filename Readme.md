@@ -67,13 +67,20 @@ Chapters:
 **Chatbot:**
 
 ```
-▶️ 11:36:30 Build Your First Agentic Chatbot with LangGraph
-⏸️ 12:43:49 Why Persistence is Required in LangGraph
+✅ 11:36:30 Build Your First Agentic Chatbot with LangGraph
+▶️ 12:44:40 Why Persistence is Required in LangGraph
 ⏸️ 13:51:00 Streaming Responses in Agentic Chatbot with LangGraph
 ⏸️ 14:10:02 How to Add Chat Threading in Agentic Chatbot using LangGraph
 ⏸️ 14:42:02 Build Permanent Chat Persistence Memory with LangGraph and Database
 ⏸️ 15:16:31 Monitor Your Agentic Chatbot with LangSmith & LangGraph
 ⏸️ 15:40:24 How to Integrate Tools in Agentic Chatbot with LangGraph
+```
+
+<br/>
+
+**RAG:**
+
+```
 ⏸️ 16:54:17 Implement RAG in Agentic Chatbot with LangGraph
 ⏸️ 17:50:27 Implement Human-in-the-Loop (HITL) in Agentic Chatbot using LangGraph
 ⏸️ 18:48:09 Agentic Chatbot CI/CD Deployment on AWS with Docker & GitHub Actions
@@ -103,7 +110,7 @@ https://github.com/GetStream/ai-agent-tools-catalog
 https://www.youtube.com/watch?v=Z2DNKJ7tVVg
 
 **Building effective agents:**  
-https://www.anthropic.com/engineering/building-effective-agents
+v
 
 <br/><br/>
 
