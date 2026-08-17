@@ -68,12 +68,49 @@ Chapters:
 
 ```
 ✅ 11:36:30 Build Your First Agentic Chatbot with LangGraph
-▶️ 12:44:40 Why Persistence is Required in LangGraph
-⏸️ 13:51:00 Streaming Responses in Agentic Chatbot with LangGraph
-⏸️ 14:10:02 How to Add Chat Threading in Agentic Chatbot using LangGraph
-⏸️ 14:42:02 Build Permanent Chat Persistence Memory with LangGraph and Database
-⏸️ 15:16:31 Monitor Your Agentic Chatbot with LangSmith & LangGraph
-⏸️ 15:40:24 How to Integrate Tools in Agentic Chatbot with LangGraph
+✅ 12:44:40 Why Persistence is Required in LangGraph
+✅ 13:51:38 Streaming Responses in Agentic Chatbot with LangGraph
+```
+
+<br/>
+
+```bash
+$ streamlit run app.py
+```
+
+<br/>
+
+```
+✅ 14:10:40 How to Add Chat Threading in Agentic Chatbot using LangGraph
+```
+
+<br/>
+
+```bash
+$ streamlit run app_thread.py
+```
+
+<br/>
+
+```
+✅ 14:42:40 Build Permanent Chat Persistence Memory with LangGraph and Database (SQLite)
+```
+
+<br/>
+
+```bash
+$ streamlit run app_db.py
+```
+
+<br/>
+
+```
+✅ 15:17:08 Monitor Your Agentic Chatbot with LangSmith & LangGraph
+✅ 15:41:02 How to Integrate Tools in Agentic Chatbot with LangGraph
+```
+
+```
+https://www.alphavantage.co/
 ```
 
 <br/>
@@ -81,10 +118,36 @@ Chapters:
 **RAG:**
 
 ```
-⏸️ 16:54:17 Implement RAG in Agentic Chatbot with LangGraph
-⏸️ 17:50:27 Implement Human-in-the-Loop (HITL) in Agentic Chatbot using LangGraph
+✅ 16:55:22 Implement RAG in Agentic Chatbot with LangGraph (FAISS)
+```
+
+<br/>
+
+<img src="./img/05. Implement-RAG-in-Agentic-Chatbot-with-LangGraph-pic01.png" alt="Implement RAG in Agentic Chatbot with 
+LangGraph">
+
+<br/>
+
+**Human-in-the-Loop**:
+
+```
+✅ 17:51:05 Implement Human-in-the-Loop (HITL) in Agentic Chatbot using LangGraph
+```
+
+<br/>
+
+**Deployment:**
+
+```
 ⏸️ 18:48:09 Agentic Chatbot CI/CD Deployment on AWS with Docker & GitHub Actions
 ⏸️ 19:52:05 Deploy Agentic AI Chatbot on Render for FREE with Docker
+```
+
+<br/>
+
+**Project:**
+
+```
 ⏸️ 20:06:27 Project: Build Your Own ChatGPT Agent with LLMs, LangGraph, FastAPI, LangSmith, ChromaDB, SQLAlchemy & AWS
 ⏸️ 22:21:17 Project: Build TripMate AI End-to-End: Multi-Agent Travel Planner with Groq, LangGraph, PostgreSQL & FastAPI
 ```
@@ -103,14 +166,14 @@ Chapters:
 
 <br/><br/>
 
-**The AI Agent Tools Catalog:**  
+**The AI Agent Tools Catalog:**
 https://github.com/GetStream/ai-agent-tools-catalog
 
-**Ultimate LangChain Crash Course for Developers:**  
+**Ultimate LangChain Crash Course for Developers:**
 https://www.youtube.com/watch?v=Z2DNKJ7tVVg
 
-**Building effective agents:**  
-v
+**Building effective agents:**
+https://www.anthropic.com/engineering/building-effective-agents
 
 <br/><br/>
 
