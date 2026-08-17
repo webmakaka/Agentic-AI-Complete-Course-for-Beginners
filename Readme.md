@@ -123,8 +123,7 @@ https://www.alphavantage.co/
 
 <br/>
 
-<img src="./img/05. Implement-RAG-in-Agentic-Chatbot-with-LangGraph-pic01.png" alt="Implement RAG in Agentic Chatbot with 
-LangGraph">
+<img src="./img/05. Implement-RAG-in-Agentic-Chatbot-with-LangGraph-pic01.png" alt="Implement RAG in Agentic Chatbot with LangGraph">
 
 <br/>
 
@@ -136,10 +135,18 @@ LangGraph">
 
 <br/>
 
+<img src="./img/06. Implement Human-in-the-Loop-pic01.png" alt="Implement Human-in-the-Loop">
+
+<br/>
+
+<img src="./img/06. Implement Human-in-the-Loop-pic02.png" alt="Implement Human-in-the-Loop">
+
+<br/>
+
 **Deployment:**
 
 ```
-⏸️ 18:48:09 Agentic Chatbot CI/CD Deployment on AWS with Docker & GitHub Actions
+⏸️ 18:48:48 Agentic Chatbot CI/CD Deployment on AWS with Docker & GitHub Actions
 ⏸️ 19:52:05 Deploy Agentic AI Chatbot on Render for FREE with Docker
 ```
 
@@ -166,13 +173,13 @@ LangGraph">
 
 <br/><br/>
 
-**The AI Agent Tools Catalog:**
+**The AI Agent Tools Catalog:**  
 https://github.com/GetStream/ai-agent-tools-catalog
 
-**Ultimate LangChain Crash Course for Developers:**
+**Ultimate LangChain Crash Course for Developers:**  
 https://www.youtube.com/watch?v=Z2DNKJ7tVVg
 
-**Building effective agents:**
+**Building effective agents:**  
 https://www.anthropic.com/engineering/building-effective-agents
 
 <br/><br/>
